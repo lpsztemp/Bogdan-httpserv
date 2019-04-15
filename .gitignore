@@ -1,0 +1,9 @@
+*.xml
+*.hgt
+*.bin
+*.ini
+*[Rr]esults*
+Debug/
+Release/
+*.log
+x64/

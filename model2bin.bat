@@ -1,0 +1,1 @@
+.\Release\x64\cmd_client.exe --inp2bin --domain radio_hf --discard_output --hgt .\model\SRTM_LOWRES.hgt .\model\1.xml .\model\2.xml .\model\3.xml .\model\UploadModelIdParam.bin
